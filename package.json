@@ -14,16 +14,14 @@
   "author": "Abhishek Mane <abhishekmane@outlook.in>",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^1.0.3",
     "express": "^4.16.2",
     "express-session": "^1.15.6",
     "fixed-width-string": "^1.0.0",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
-    "pug": "^2.0.0-rc.4",
     "string-format": "^0.5.0",
     "winston": "^2.4.0"
   },
-  "devDependencies": {
-    "bcrypt": "^1.0.3"
-  }
+  "devDependencies": {}
 }
