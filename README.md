@@ -1,5 +1,5 @@
-# Remote Monitoring Application
-Monitors and analyzes the deployed remote devices.
+# NodeJS Web Project Skeleton
+Provides a web project structure for quick start
 ## Getting started
 1. Install required dependencies
     * Using npm

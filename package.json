@@ -11,7 +11,7 @@
     "type": "git",
     "url": "http://gitlab/abhishek-mane/iot-remote-monitoring-app.git"
   },
-  "contributors": [],
+  "author": "Abhishek Mane <abhishekmane@outlook.in>",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.2",
